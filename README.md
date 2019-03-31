@@ -1,5 +1,5 @@
 ## Google Cloud Platform configure your App Engine app's settings in the app.yaml file
-## Create a [app.yaml](node/app.yaml) file to root directory
+### Create a app.yaml file to root directory
 ### Node Js Application 
 - [Node](node/app.yaml) 
 
